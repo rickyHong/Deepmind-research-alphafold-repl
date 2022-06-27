@@ -94,7 +94,7 @@ pyxattr==0.6.1
 pyxdg==0.25
 PyYAML==3.13
 rekey==1
-reportlab==3.5.13
+reportlab==3.5.55
 requests==2.21.0
 scipy==1.2.2
 scour==0.37
